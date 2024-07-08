@@ -1,0 +1,12 @@
+127.0.0.1 - - [12/Jun/2024:10:33:57 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:10:33:58 +0530] "GET /Servlet01/WEB-INF/home.html HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:10:33:58 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [12/Jun/2024:11:29:29 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:29:30 +0530] "GET /Servlet01/ HTTP/1.1" 404 766
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:29:30 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [12/Jun/2024:11:35:58 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:35:58 +0530] "GET /Servlet01/ HTTP/1.1" 200 635
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:37:10 +0530] "GET /Servlet01/FacultyServlet?fname=biswa&femail=biswa%40gmail.com&fpass=1111&fadd=bbsr HTTP/1.1" 200 51
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:38:16 +0530] "GET /Servlet01/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:38:16 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Jun/2024:11:38:36 +0530] "GET /Servlet01/FacultyServlet?fname=biswa&femail=biswa%40gmail.com&fpass=7689&fadd=bbsr HTTP/1.1" 200 51

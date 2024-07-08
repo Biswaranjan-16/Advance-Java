@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+<welcome-file-list>
+<welcome-file>home.html</welcome-file>
+</welcome-file-list>
+
+<servlet>
+<servlet-name>FacultyServlet</servlet-name>
+<servlet-class>com.demo.servlet.FacultyServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>FacultyServlet</servlet-name>
+<url-pattern>/FacultyServlet</url-pattern>
+</servlet-mapping>
+</web-app>

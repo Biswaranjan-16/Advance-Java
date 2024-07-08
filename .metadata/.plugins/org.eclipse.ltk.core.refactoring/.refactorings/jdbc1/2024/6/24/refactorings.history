@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DbConnection.java&apos; to &apos;Servlet01/src/main/java/com.demo.util&apos;&#x0D;&#x0A;- Original project: &apos;jdbc1&apos;&#x0D;&#x0A;- Destination element: &apos;Servlet01/src/main/java/com.demo.util&apos;&#x0D;&#x0A;- Original element: &apos;DbConnection.java&apos;" description="Copy file" destination="=Servlet01/src\/main\/java&lt;com.demo.util" element1="src/main/java/com/demo/util/DbConnection.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1718166736204" units="0" version="1.0"/>
+</session>
