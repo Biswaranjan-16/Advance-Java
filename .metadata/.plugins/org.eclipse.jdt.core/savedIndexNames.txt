@@ -24,7 +24,6 @@ INDEX VERSION 1.134+C:\Users\biswa\eclipse-workspace\.metadata\.plugins\org.ecli
 2884856784.index
 2462540096.index
 1865797976.index
-1583955355.index
 1802189411.index
 3515139652.index
 1598583867.index

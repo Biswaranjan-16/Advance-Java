@@ -37,7 +37,7 @@ public class UserServlet extends HttpServlet {
 		UserDao ud=new UserDao();
 		int status=ud.saveUser(u);
 
-		response.sendRedirect("index.jsp");  
+		response.sendRedirect("login.jsp");  
 	}
 
 	
