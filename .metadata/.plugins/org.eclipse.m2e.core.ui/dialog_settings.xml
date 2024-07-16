@@ -32,6 +32,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.biswa.Medicare"/>
 			<item value="com.biswa.AjaxCrud01"/>
 			<item value="com.biswa.JSPCrud01"/>
 		</list>
@@ -39,6 +40,7 @@
 			<item value="com.biswa"/>
 		</list>
 		<list key="artifactId">
+			<item value="Medicare"/>
 			<item value="AjaxCrud01"/>
 			<item value="JSPCrud01"/>
 		</list>
