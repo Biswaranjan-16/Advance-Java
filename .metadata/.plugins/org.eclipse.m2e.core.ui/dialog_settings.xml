@@ -32,17 +32,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.biswa.Medicare"/>
-			<item value="com.biswa.AjaxCrud01"/>
-			<item value="com.biswa.JSPCrud01"/>
+			<item value="com.biswa.E_Commerce"/>
 		</list>
 		<list key="groupId">
 			<item value="com.biswa"/>
 		</list>
 		<list key="artifactId">
-			<item value="Medicare"/>
-			<item value="AjaxCrud01"/>
-			<item value="JSPCrud01"/>
+			<item value="E-Commerce"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
